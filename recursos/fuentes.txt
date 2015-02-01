@@ -1,0 +1,20 @@
+mundo --- El Mundo
+el mundo --- El Mundo
+pais --- El PaÃ­s
+el pais --- El PaÃ­s
+país --- El PaÃ­s
+el país --- El PaÃ­s
+voz --- La Voz de Galicia
+la voz --- La Voz de Galicia
+galicia --- La Voz de Galicia
+la voz de galicia --- La Voz de Galicia
+vanguardia --- La Vanguardia
+la vanguardia --- La Vanguardia
+abc --- ABC
+razon --- La Razón
+la razon --- La Razón
+razón --- La Razón
+la razón --- La Razón
+adelantado --- El Adelantado
+el adelantado --- El Adelantado
+
